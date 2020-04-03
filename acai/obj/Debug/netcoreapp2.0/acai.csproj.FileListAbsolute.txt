@@ -1,0 +1,13 @@
+C:\Users\Julio Bindandi\source\repos\acai\acai\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Julio Bindandi\source\repos\acai\acai\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Julio Bindandi\source\repos\acai\acai\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Julio Bindandi\source\repos\acai\acai\obj\Debug\netcoreapp2.0\acai.AssemblyInfoInputs.cache
+C:\Users\Julio Bindandi\source\repos\acai\acai\obj\Debug\netcoreapp2.0\acai.AssemblyInfo.cs
+C:\Users\Julio Bindandi\source\repos\acai\acai\bin\Debug\netcoreapp2.0\acai.deps.json
+C:\Users\Julio Bindandi\source\repos\acai\acai\bin\Debug\netcoreapp2.0\acai.runtimeconfig.json
+C:\Users\Julio Bindandi\source\repos\acai\acai\bin\Debug\netcoreapp2.0\acai.runtimeconfig.dev.json
+C:\Users\Julio Bindandi\source\repos\acai\acai\bin\Debug\netcoreapp2.0\acai.dll
+C:\Users\Julio Bindandi\source\repos\acai\acai\bin\Debug\netcoreapp2.0\acai.pdb
+C:\Users\Julio Bindandi\source\repos\acai\acai\obj\Debug\netcoreapp2.0\acai.csprojAssemblyReference.cache
+C:\Users\Julio Bindandi\source\repos\acai\acai\obj\Debug\netcoreapp2.0\acai.dll
+C:\Users\Julio Bindandi\source\repos\acai\acai\obj\Debug\netcoreapp2.0\acai.pdb
